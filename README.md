@@ -1,4 +1,4 @@
-# electron-vite-boilerplate
+# electron-vue-boilerplate
 
 Electron + Vue3 + Vite + Tailwind + i18n + EventBus boilerplate.
 
